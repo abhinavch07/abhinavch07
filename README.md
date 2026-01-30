@@ -20,8 +20,4 @@
 <a href="https://linkedin.com/in/abhinavchoudhary07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavchoudhary07" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavch07&show_icons=true&locale=en&layout=compact" alt="abhinavch07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavch07&show_icons=true&locale=en" alt="abhinavch07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavch07&" alt="abhinavch07" /></p>
