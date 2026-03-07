@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Vibe Coding**
 
-- 💬 Ask me about **Project Management, Program Management**
+- 💬 Ask me about **Project Management, Program Management, Delivery Management, Stakeholder Management, Vibe Coding**
 
 - 📫 How to reach me **abhinavchoudhary07@gmail.com**
 
