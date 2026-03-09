@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavch07&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavch07" /> 
 
 
-- 🌱 I’m currently learning **AI Tools**
-
-- 🤝 I’m looking for help with **Vibe Coding**
+- 🌱 I’m vibe coding **AI Tools** 
 
 - 💬 Ask me about **Project Management, Program Management, Delivery Management, Stakeholder Management, Vibe Coding**
 
